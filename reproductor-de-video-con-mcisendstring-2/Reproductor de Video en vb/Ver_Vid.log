@@ -1,0 +1,11 @@
+Línea 59: la clase ComctlLib.Slider del control Slider1 no era una clase de control cargada.
+Línea 81: la clase MSComDlg.CommonDialog del control CommonDialog1 no era una clase de control cargada.
+Línea 65: el nombre de la propiedad _ExtentX de Slider1 no es válido.
+Línea 66: el nombre de la propiedad _ExtentY de Slider1 no es válido.
+Línea 67: el nombre de la propiedad _Version de Slider1 no es válido.
+Línea 68: el nombre de la propiedad LargeChange de Slider1 no es válido.
+Línea 69: el nombre de la propiedad SelectRange de Slider1 no es válido.
+Línea 70: el nombre de la propiedad TickStyle de Slider1 no es válido.
+Línea 84: el nombre de la propiedad _ExtentX de CommonDialog1 no es válido.
+Línea 85: el nombre de la propiedad _ExtentY de CommonDialog1 no es válido.
+Línea 86: el nombre de la propiedad _Version de CommonDialog1 no es válido.

@@ -1,0 +1,16 @@
+:Base Shape.hlp
+:Title Custom Form Shape OCX Help
+1 About Custom Form Shape OCX=main_index
+1 Register the Custom Form Shape OCX=Register
+1 Using Custom Form Shape OCX
+2 Properties
+3 AutoScale=AutoScale
+3 hWnd=hWnd
+3 MaskColor=MaskColor
+3 ScaleX=ScaleX
+3 ScaleY=ScaleY
+3 ShapePicture=ShapePicture
+3 ShapeString=ShapeString
+3 ShapeType=ShapeType
+2 Methods
+3 Refresh=Refresh

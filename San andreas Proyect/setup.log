@@ -1,0 +1,5 @@
+Línea 30: la clase MSComDlg.CommonDialog del control dialogo no era una clase de control cargada.
+Línea 33: el nombre de la propiedad _ExtentX de dialogo no es válido.
+Línea 34: el nombre de la propiedad _ExtentY de dialogo no es válido.
+Línea 35: el nombre de la propiedad _Version de dialogo no es válido.
+Línea 36: el nombre de la propiedad DialogTitle de dialogo no es válido.

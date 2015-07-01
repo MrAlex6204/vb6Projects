@@ -1,0 +1,16 @@
+[History]
+B0=Proyecto1/Form1/VisualizarVol
+B1=Proyecto1/Form1/mnuCerrar_Click
+B2=Proyecto1/Form1/Form_Load
+B3=Proyecto1/Form1/Timer1_Timer
+B4=Proyecto1/Form1/Form_Initialize
+B5=Proyecto1/Form1/GuardarConfiguracion
+B6=Proyecto1/Form1/mnuIWindows_Click
+B7=Proyecto1/Vol/SiempreVisible
+B8=Proyecto1/Form1/mnuSVista_Click
+B9=Proyecto1/Vol
+B10=Proyecto1/Vol/LeerIni
+B11=Proyecto1/Vol/Volumen
+B12=Proyecto1/Form1/InitCommonControls
+B13=Proyecto1/Form1/AgregarIcon
+B14=Proyecto1/Form1/c_KeyEventDown

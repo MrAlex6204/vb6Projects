@@ -1,0 +1,280 @@
+[Root]
+Most Recent Package=Base De Datos System
+
+
+[Package|VeraSoft|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\New Folder
+
+[Package|VeraSoft|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|VeraSoft|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|VeraSoft|Files Found]
+
+[Package|VeraSoft|Files Released]
+
+[Package|VeraSoft|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|VeraSoft|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|VeraSoft|Files Added]
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=
+
+[Package|VeraSoft|Files Removed]
+
+[Package|VeraSoft|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Base De Datos System.exe=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=Yes
+
+[Package|VeraSoft|Configure Registry Files]
+Applicable=No
+
+[Package|VeraSoft|Configure Remote Servers]
+Applicable=No
+
+[Package|VeraSoft|Install Locations]
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\bASEdATOS.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Base De Datos System.exe=$(AppPath)
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=$(AppPath)
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=$(AppPath)
+
+[Package|VeraSoft|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\bASEdATOS.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Base De Datos System.exe=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=Yes
+
+[Package|VeraSoft|Distribution]
+Type=single
+Size=1.44 MB
+Title=Base De Datos System     VeraSoft Develoment 
+
+[Package|VeraSoft|IconGroups]
+Group0=BaswDeDatosSystem
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|VeraSoft|BaswDeDatosSystem]
+Icon1=bASEdATOS.exe
+Title1=Base De Datos System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|VeraSoft|Package]
+PackageFolder=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\New Folder
+ProjectFolder=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS
+ServerSideCab=
+File1=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\New Folder\setup.exe
+File2=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\New Folder\Setup.Lst
+File3=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\New Folder\Base De Datos System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Base De Datos System|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Package
+
+[Package|Base De Datos System|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Base De Datos System|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Base De Datos System|Files Found]
+
+[Package|Base De Datos System|Files Released]
+
+[Package|Base De Datos System|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|Base De Datos System|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|Base De Datos System|Files Added]
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=
+
+[Package|Base De Datos System|Files Removed]
+
+[Package|Base De Datos System|Files In Project]
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Base De Datos System.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=Yes
+
+[Package|Base De Datos System|Configure Registry Files]
+Applicable=No
+
+[Package|Base De Datos System|Configure Remote Servers]
+Applicable=No
+
+[Package|Base De Datos System|Install Locations]
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Base De Datos System.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=$(AppPath)
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=$(AppPath)
+
+[Package|Base De Datos System|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Base De Datos System.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Sistemas.mdb=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Medicina.mdb=Yes
+
+[Package|Base De Datos System|Distribution]
+Type=single
+Size=
+Title=BaseDeDatosSystem
+
+[Package|Base De Datos System|IconGroups]
+Group0=BaseDeDatosSystem
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Base De Datos System|BaseDeDatosSystem]
+Icon1="Base De Datos System.exe"
+Title1=BaseDeDatosSystem
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Base De Datos System|Package]
+PackageFolder=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Package
+ProjectFolder=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS
+ServerSideCab=
+File1=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Package\setup.exe
+File2=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Package\Setup.Lst
+File3=C:\Documents and Settings\luis-fdz\Escritorio\BASEDATOS\Package\Base De Datos System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

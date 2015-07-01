@@ -1,0 +1,25 @@
+[Version]
+Version=1.0.0.0
+
+[VeraSoft.exe <0009>]
+Dest=$(AppPath)
+Date=21/11/2008
+Time=11:00
+Version=1.0.0.0
+CABFilename=VeraSoft.CAB
+CABINFFile=VeraSoft.INF
+Uses1=MSVBVM60.DLL
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=msado20.tlb
+Uses8=COMCT332.OCX
+Uses9=comctl32.ocx
+
+[msado20.tlb <0009>]
+Dest=$(WinSysPath)
+Date=03/08/2004
+Time=16:21
+Version=2.81.1117.0

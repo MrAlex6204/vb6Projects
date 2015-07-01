@@ -1,0 +1,33 @@
+# Project: Usuarios
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = Usuarios_private.res
+OBJ  = Usuarios.o $(RES)
+LINKOBJ  = Usuarios.o $(RES)
+LIBS =  -L"C:/Program Files/Dev-Cpp/lib"  
+INCS =  -I"C:/Program Files/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Program Files/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Program Files/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Program Files/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Program Files/Dev-Cpp/include/c++/3.4.2"  -I"C:/Program Files/Dev-Cpp/include" 
+BIN  = Usuarios.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Usuarios.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Usuarios.exe" $(LIBS)
+
+Usuarios.o: Usuarios.cpp
+	$(CPP) -c Usuarios.cpp -o Usuarios.o $(CXXFLAGS)
+
+Usuarios_private.res: Usuarios_private.rc 
+	$(WINDRES) -i Usuarios_private.rc --input-format=rc -o Usuarios_private.res -O coff 

@@ -1,0 +1,103 @@
+[Root]
+Most Recent Package=USB Aplication
+
+
+[Package|USB Aplication|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\luis-fdz\Escritorio\USB\Package
+
+[Package|USB Aplication|Configure DAO ISAMs]
+Applicable=No
+
+[Package|USB Aplication|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|USB Aplication|Files Found]
+
+[Package|USB Aplication|Files Released]
+
+[Package|USB Aplication|Missing Dependency Information]
+C:\WINDOWS\system32\SmartMenuXP.ocx=
+C:\WINDOWS\system32\wmp.dll=
+
+[Package|USB Aplication|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|USB Aplication|Files Added]
+
+[Package|USB Aplication|Files Removed]
+
+[Package|USB Aplication|Files In Project]
+C:\Documents and Settings\luis-fdz\Escritorio\USB\USB Aplication.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\SmartMenuXP.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|USB Aplication|Configure Registry Files]
+Applicable=No
+
+[Package|USB Aplication|Configure Remote Servers]
+Applicable=No
+
+[Package|USB Aplication|Install Locations]
+C:\Documents and Settings\luis-fdz\Escritorio\USB\USB Aplication.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(AppPath)
+C:\WINDOWS\system32\SmartMenuXP.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|USB Aplication|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\luis-fdz\Escritorio\USB\USB Aplication.exe=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+
+[Package|USB Aplication|Distribution]
+Type=single
+Size=
+Title=USB Aplication VeraSoft Development
+
+[Package|USB Aplication|IconGroups]
+Group0=USB Aplication VeraSoft Development
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|USB Aplication|USB Aplication VeraSoft Development]
+Icon1="USB Aplication.exe"
+Title1=USB Aplication VeraSoft Development
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|USB Aplication|Package]
+PackageFolder=C:\Documents and Settings\luis-fdz\Escritorio\USB\Package
+ProjectFolder=C:\Documents and Settings\luis-fdz\Escritorio\USB
+ServerSideCab=
+File1=C:\Documents and Settings\luis-fdz\Escritorio\USB\Package\setup.exe
+File2=C:\Documents and Settings\luis-fdz\Escritorio\USB\Package\Setup.Lst
+File3=C:\Documents and Settings\luis-fdz\Escritorio\USB\Package\USB Aplication.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

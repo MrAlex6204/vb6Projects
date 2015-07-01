@@ -1,0 +1,7 @@
+Línea 13: la clase MSWinsockLib.Winsock del control wskBroadcast no era una clase de control cargada.
+Línea 16: el nombre de la propiedad _ExtentX de wskBroadcast no es válido.
+Línea 17: el nombre de la propiedad _ExtentY de wskBroadcast no es válido.
+Línea 18: el nombre de la propiedad _Version de wskBroadcast no es válido.
+Línea 19: el nombre de la propiedad Protocol de wskBroadcast no es válido.
+Línea 20: el nombre de la propiedad RemoteHost de wskBroadcast no es válido.
+Línea 21: el nombre de la propiedad RemotePort de wskBroadcast no es válido.

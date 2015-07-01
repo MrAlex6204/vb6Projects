@@ -1,0 +1,4 @@
+Line 33: Class ComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 53: Class MSWinsockLib.Winsock of control wskBroadcast was not a loaded control class.
+Line 106: Class MSWinsockLib.Winsock of control WinsockUser was not a loaded control class.
+Line 116: Class MSWinsockLib.Winsock of control WinsockConectados was not a loaded control class.

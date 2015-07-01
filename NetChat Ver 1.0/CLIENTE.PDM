@@ -1,0 +1,320 @@
+[Root]
+Most Recent Package=VeraSoft Develoment
+
+
+[Package|Net Chat 1.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\Package
+
+[Package|Net Chat 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Net Chat 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Net Chat 1.0|Files Found]
+
+[Package|Net Chat 1.0|Files Released]
+
+[Package|Net Chat 1.0|Missing Dependency Information]
+
+[Package|Net Chat 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|Net Chat 1.0|Files Added]
+
+[Package|Net Chat 1.0|Files Removed]
+
+[Package|Net Chat 1.0|Files In Project]
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Net Chat 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|Net Chat 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|Net Chat 1.0|Install Locations]
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Net Chat 1.0|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=No
+
+[Package|Net Chat 1.0|Distribution]
+Type=single
+Size=
+Title=Net Chat 1.0
+
+[Package|Net Chat 1.0|IconGroups]
+Group0=Net Chat 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Net Chat 1.0|Net Chat 1.0]
+Icon1=ESCUCHA2.exe
+Title1=Net Chat 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Net Chat 1.0|Package]
+PackageFolder=C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\Package
+ProjectFolder=C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0
+ServerSideCab=
+File1=C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\Package\setup.exe
+File2=C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\Package\Setup.Lst
+File3=C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\Package\ESCUCHA2.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Program Net Chat 1.0|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Net Chat 1.0
+
+[Package|Program Net Chat 1.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Program Net Chat 1.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Program Net Chat 1.0|Files Found]
+
+[Package|Program Net Chat 1.0|Files Released]
+
+[Package|Program Net Chat 1.0|Missing Dependency Information]
+
+[Package|Program Net Chat 1.0|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|Program Net Chat 1.0|Files Added]
+
+[Package|Program Net Chat 1.0|Files Removed]
+
+[Package|Program Net Chat 1.0|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+E:\escuela\Visual Basic\NetChat Ver 1.0\ESCUCHA2=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+
+[Package|Program Net Chat 1.0|Configure Registry Files]
+Applicable=No
+
+[Package|Program Net Chat 1.0|Configure Remote Servers]
+Applicable=No
+
+[Package|Program Net Chat 1.0|Install Locations]
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\escuela\Visual Basic\NetChat Ver 1.0\ESCUCHA2=$(AppPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+
+[Package|Program Net Chat 1.0|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=No
+
+[Package|Program Net Chat 1.0|Distribution]
+Type=single
+Size=
+Title=Net Chat 1.0
+
+[Package|Program Net Chat 1.0|IconGroups]
+Group0=Net Chat 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Program Net Chat 1.0|Net Chat 1.0]
+Icon1=ESCUCHA2.exe
+Title1=Net Chat 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Program Net Chat 1.0|DepFile]
+DepCabFile=ESCUCHA2.exe
+DepCabRun=ESCUCHA2.INF
+
+[Package|Program Net Chat 1.0|Package]
+PackageFolder=C:\Documents and Settings\Net Chat 1.0
+ProjectFolder=E:\escuela\Visual Basic\NetChat Ver 1.0
+ServerSideCab=
+File1=C:\Documents and Settings\Net Chat 1.0\ESCUCHA2.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|VeraSoft Develoment|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Net Chat 1.0
+
+[Package|VeraSoft Develoment|Configure DAO ISAMs]
+Applicable=No
+
+[Package|VeraSoft Develoment|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|VeraSoft Develoment|Files Found]
+
+[Package|VeraSoft Develoment|Files Released]
+
+[Package|VeraSoft Develoment|Missing Dependency Information]
+
+[Package|VeraSoft Develoment|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+
+[Package|VeraSoft Develoment|Files Added]
+
+[Package|VeraSoft Develoment|Files Removed]
+
+[Package|VeraSoft Develoment|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\escuela\Visual Basic\NetChat Ver 1.0\Net Chat 1.0.exe=Yes
+
+[Package|VeraSoft Develoment|Configure Registry Files]
+Applicable=No
+
+[Package|VeraSoft Develoment|Configure Remote Servers]
+Applicable=No
+
+[Package|VeraSoft Develoment|Install Locations]
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\escuela\Visual Basic\NetChat Ver 1.0\ESCUCHA2=$(AppPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+E:\escuela\Visual Basic\NetChat Ver 1.0\Net Chat 1.0.exe=$(AppPath)
+
+[Package|VeraSoft Develoment|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\usurio\Escritorio\NetChat Ver 1.0\ESCUCHA2.exe=No
+E:\escuela\Visual Basic\NetChat Ver 1.0\ESCUCHA2=No
+E:\escuela\Visual Basic\NetChat Ver 1.0\Net Chat 1.0.exe=Yes
+
+[Package|VeraSoft Develoment|Distribution]
+Type=single
+Size=1.44 MB
+Title=Net Chat 1.0
+
+[Package|VeraSoft Develoment|DepFile]
+DepCabFile=ESCUCHA2.exe
+DepCabRun=ESCUCHA2.INF
+
+[Package|VeraSoft Develoment|IconGroups]
+Group0=Net Chat 1.0
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|VeraSoft Develoment|Net Chat 1.0]
+Icon1=ESCUCHA2.exe
+Title1=Net Chat 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|VeraSoft Develoment|Package]
+PackageFolder=C:\Documents and Settings\Net Chat 1.0
+ProjectFolder=E:\escuela\Visual Basic\NetChat Ver 1.0
+ServerSideCab=
+File1=C:\Documents and Settings\Net Chat 1.0\setup.exe
+File2=C:\Documents and Settings\Net Chat 1.0\Setup.Lst
+File3=C:\Documents and Settings\Net Chat 1.0\Net Chat 1.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

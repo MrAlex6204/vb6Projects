@@ -1,0 +1,10 @@
+
+Dump of file E:\escuela\Visual Basic\VBasic-Projects\Aplicacion Usb\Usb Proyect.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Summary
+
+        2000 .data
+        3000 .rsrc
+      1E1000 .text

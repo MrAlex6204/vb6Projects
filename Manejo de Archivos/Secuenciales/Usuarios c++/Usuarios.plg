@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Usuarios - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Luis\CONFIG~1\Temp\RSP169.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Usuarios.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Dev-Cpp\Usuarios\Usuarios.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Luis\CONFIG~1\Temp\RSP169.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Usuarios.cpp
+e:\dev-cpp\usuarios\funciones.h(16) : warning C4101: 'hConsoleOut' : unreferenced local variable
+e:\dev-cpp\usuarios\captura.h(34) : warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\dev-cpp\usuarios\captura.h(38) : warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+e:\dev-cpp\usuarios\busqueda.h(13) : warning C4101: 'Contenido' : unreferenced local variable
+e:\dev-cpp\usuarios\usuarios.cpp(19) : warning C4101: 'Cadena' : unreferenced local variable
+
+
+
+<h3>Results</h3>
+Usuarios.obj - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
